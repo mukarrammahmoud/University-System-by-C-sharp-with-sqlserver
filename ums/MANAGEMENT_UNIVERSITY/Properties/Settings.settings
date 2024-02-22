@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MANAGEMENT_UNIVERSITY.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="USERID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PSW" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SERVER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        </Value>
+    </Setting>
+    <Setting Name="DATABASE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        </Value>
+    </Setting>
+    <Setting Name="MODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+        </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
